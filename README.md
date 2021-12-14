@@ -1,4 +1,4 @@
-# ResponsiveWebDesign
+# Responsive Web Design
 
 ##"Living the Social Life" Responsive Web Page
 
